@@ -1,0 +1,150 @@
+.navbar-brand img{
+	width:100%;
+	height:auto;
+}
+
+#nav-list{
+	margin-top:20px;
+}
+
+#nav-right{
+	margin-top: 20px;
+	
+}
+
+
+#myCarousel{
+	margin-top: 200px;
+}
+.carousel-caption a{
+	color: white;
+}
+.carousel-caption a:hover{
+	color: white;
+	text-decoration:underline;
+	text-decoration-color: white;
+}
+#features{
+	max-height: 400px;
+}
+#featuresHeading{
+	margin-top: 100px;
+
+}
+hr{
+	border: 2px solid #000;
+}
+#first {
+	width: 100%;
+	height: 520px;
+}
+#first img{
+	width:100%;
+	height:400px;
+
+}
+.panel a{
+	color:black;
+}
+footer{
+	margin-top:50px;
+	background:black;
+	color: #eee;
+	font-size: 11px;
+}
+
+#foot_list li  {
+	display: inline;
+	list-style-type: none;
+	margin-left: 20px;
+
+}
+#foot_list li a{
+	color: white;
+	text-decoration: none;
+}
+#cont{
+	height:700px;
+}
+#jumb{
+	background:url("https://cdn.kashmirobserver.in/assets/container/styles/header_media/public/media/article-images/2017/27/china-india_0.jpg") no-repeat;
+	background-size: 100% 100%;
+	background-color: #fff;
+	height:500px;
+	margin-top:200px;
+  color:white;
+	padding-top:400px;
+
+
+}
+#jumb img{
+	background-color: #fff;
+	width:100%;
+
+}
+
+#para{
+	margin-top:5px;
+}
+.story1 img{
+	height:600px;
+	width:100%;
+}
+.story2 img{
+	height:500px;
+	width:100%;
+
+}
+.moreStories h2{
+	margin-right: 20px;
+
+}
+
+.navbar-fixed-top{
+	background-color:black;
+}
+#nav-list .dropdown li a{
+	color:black;
+}
+#nav-right li a,#nav-list li a{
+	color: white;
+}
+#copy{
+	text-align: center;
+	margin:auto;
+}
+#submit-button{
+	width: 40%;
+}
+#twitter {
+	height: 40px;
+	width: 40px;
+}
+@media only screen and (max-width: 800px) {
+    #foot {
+    	margin-top:1200px;
+       
+    }
+    #font{
+    	font-size:6px;
+    }
+    #image{
+    	font-size: 6px; }
+}
+@media only screen and (max-width: 768px) {
+	
+	#jumb{
+		font-size:20px;
+	}
+	
+        }
+
+}
+
+ 
+
+
+
+
+
+
